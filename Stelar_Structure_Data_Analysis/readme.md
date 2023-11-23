@@ -1,3 +1,5 @@
+# Stellar Structure Data Analysis
+
 In this project I extracted data from different Wikipedia pages about main-sequence stars; a kind of star in its early ages, that have a certain relationships between its components and a particular internal structure.
 The main topics on this project are:
 - Web scraping with python.
