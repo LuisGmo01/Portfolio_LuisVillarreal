@@ -5,3 +5,4 @@ From data recopilation to data mining and its analysis for the development of mo
 
 - Statistical analysis of stellar structure models
 - Materials science and data visualization
+- OXXO stores in Mexico along the years
