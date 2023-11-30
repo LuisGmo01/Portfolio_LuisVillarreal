@@ -6,4 +6,4 @@ The projects consisted of 3 stages:
 - Data cleaning with SQL
 - Data visualization in Tableau
 
-  In firts place the data was gathered using a API that is available in python and then stored in a csv file. After that I exported the csv data to Excel and from the Excel file I created a database in SQL where I was able to clean the data, as it cointained some problems in the formatting that caused trouble in Tableau. Finally I visualized the data using Tableau and created a dashboard. 
+  In firts place the data was gathered using a API that is available in python and then stored in a csv file. After that I exported the csv data to Excel and from the Excel file I created a database in SQL where I was able to clean the data, as it cointained some problems in the formatting that caused trouble in Tableau. Finally I visualized the data using Tableau and created a   [dashboard](https://github.com/LuisGmo01/Portfolio_LuisVillarreal/blob/main/OXXO_Data_Analysis/OXXO_dashboard.png)
